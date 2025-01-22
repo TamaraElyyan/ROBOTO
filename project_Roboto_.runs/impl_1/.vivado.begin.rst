@@ -1,80 +1,35 @@
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="13200" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="24584" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="22948" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="17528" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="20688" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="31936" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="10372" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="21760" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="20412" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="26884" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="22600" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="27592" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="22632" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="19080" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="13232" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="11076" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="5628" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="19660" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="24412" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="9616" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="16932" HostCore="12" HostMemory="017096134656">
-    </Process>
-</ProcessHandle>
-<?xml version="1.0"?>
-<ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="23328" HostCore="12" HostMemory="017096134656">
+    <Process Command="vivado.bat" Owner="marouf.alrefai" Host="MAROUF" Pid="10468" HostCore="12" HostMemory="017096134656">
     </Process>
 </ProcessHandle>
